@@ -1,0 +1,75 @@
+[
+  {
+    "id": "prd-bad-001",
+    "name": "Gelang Magnet Terapi Menyembuhkan Saraf Kejepit & Diabetes 100%",
+    "category": "kesehatan",
+    "rejected_at": "2026-11-05T02:39:26.481Z",
+    "reasons": [
+      "Kategori 'kesehatan' di luar niche yang diizinkan (meja-kerja, kamar-kos, rumah-praktis, aksesori-tekno)",
+      "tradeoffs (catatan risiko/hal yang perlu diperiksa) wajib diisi dengan jujur",
+      "Melanggar guardrail klaim sensitif/medis (/menyembuhkan/i)",
+      "Melanggar guardrail klaim sensitif/medis (/obat\\s+diabetes/i)",
+      "Melanggar guardrail klaim sensitif/medis (/saraf\\s+kejepit/i)",
+      "Melanggar guardrail klaim sensitif/medis (/tanpa\\s+dokter/i)"
+    ],
+    "raw": {
+      "id": "prd-bad-001",
+      "source": "manual_import",
+      "source_product_id": "BAD-001",
+      "name": "Gelang Magnet Terapi Menyembuhkan Saraf Kejepit & Diabetes 100%",
+      "category": "kesehatan",
+      "problem_tags": [
+        "sakit pinggang",
+        "obat diabetes"
+      ],
+      "solution_summary": "Menyembuhkan penyakit medis kronis dan saraf kejepit tanpa dokter.",
+      "tradeoffs": "",
+      "price_min": 50000,
+      "price_max": 90000,
+      "currency": "IDR",
+      "rating": 4.1,
+      "sales_count": 12,
+      "image_url": "",
+      "destination_url": "https://example.com/bad-medical-claim",
+      "affiliate_url": "https://s.shopee.co.id/bad-medical-001",
+      "source_updated_at": "2026-10-01T00:00:00Z",
+      "published_at": null,
+      "status": "draft"
+    }
+  },
+  {
+    "id": "prd-bad-002",
+    "name": "Rak Meja Tanpa Link Affiliate Valid",
+    "category": "meja-kerja",
+    "rejected_at": "2026-11-05T02:39:26.481Z",
+    "reasons": [
+      "solution_summary terlalu pendek (<20 karakter)",
+      "tradeoffs (catatan risiko/hal yang perlu diperiksa) wajib diisi dengan jujur",
+      "Kisaran harga tidak valid (price_min: 120000, price_max: 80000)",
+      "affiliate_url wajib berupa tautan afiliasi resmi HTTPS (s.shopee.co.id / tokopedia.link)"
+    ],
+    "raw": {
+      "id": "prd-bad-002",
+      "source": "manual_import",
+      "source_product_id": "BAD-002",
+      "name": "Rak Meja Tanpa Link Affiliate Valid",
+      "category": "meja-kerja",
+      "problem_tags": [
+        "meja kerja sempit"
+      ],
+      "solution_summary": "Rak meja murah.",
+      "tradeoffs": "",
+      "price_min": 120000,
+      "price_max": 80000,
+      "currency": "IDR",
+      "rating": 3.5,
+      "sales_count": 5,
+      "image_url": "",
+      "destination_url": "https://example.com/no-aff",
+      "affiliate_url": "",
+      "source_updated_at": "2026-09-01T00:00:00Z",
+      "published_at": null,
+      "status": "draft"
+    }
+  }
+]

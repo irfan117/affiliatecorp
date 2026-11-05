@@ -1,0 +1,22 @@
+{
+  "name": "afiliatcorp-remotion-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Remotion Video Creator Studio untuk Konten TikTok, Reels, & Shorts (9:16 Vertical)",
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts ProductAdVideo out/sample-ad.mp4",
+    "compositions": "remotion compositions src/index.ts"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.240",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "remotion": "^4.0.240"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "typescript": "^5.7.0"
+  }
+}
+

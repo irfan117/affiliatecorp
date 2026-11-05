@@ -1,0 +1,25 @@
+name = "afiliatcorp-shopping-worker"
+main = "src/index.ts"
+compatibility_date = "2025-01-01"
+
+[vars]
+ENVIRONMENT = "production"
+MAX_MESSAGE_LENGTH = "500"
+RATE_LIMIT_PER_MINUTE = "10"
+BURST_LIMIT_PER_5_SEC = "3"
+DAILY_AI_BUDGET_IDR = "15000"
+AFFILIATE_DISCLOSURE = "Tautan produk pada halaman ini adalah tautan afiliasi. Kami dapat menerima komisi kecil jika Anda berbelanja melalui tautan tersebut, tanpa biaya tambahan bagi Anda."
+
+[ai]
+binding = "AI"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "afiliatcorp_catalog_db"
+database_id = "b56637f8-7b21-4792-9e4c-1c369899406b"
+migrations_dir = "../db/migrations"
+
+# Rahasia API hanya berada di Cloudflare Worker secrets (.dev.vars lokal yang tidak di-commit):
+# wrangler secret put AI_API_KEY
+# wrangler secret put HASH_SALT
+

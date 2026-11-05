@@ -1,0 +1,81 @@
+# ==========================================
+# Dependencies & Libraries (Wajib diabaikan)
+# ==========================================
+node_modules/
+*/node_modules/
+.pnpm-store/
+
+# ==========================================
+# Build & Compiled Output
+# ==========================================
+dist/
+*/dist/
+dist-ssr/
+build/
+out/
+*/out/
+*.tsbuildinfo
+
+# ==========================================
+# Cloudflare Workers & Pages Local State
+# ==========================================
+.wrangler/
+*/.wrangler/
+.mf/
+
+# ==========================================
+# Environment Variables, Secrets & API Keys
+# ==========================================
+.env
+.env.*
+!.env.example
+.dev.vars
+.dev.vars.*
+*.pem
+
+# ==========================================
+# Logs & Debugging Files
+# ==========================================
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ==========================================
+# Media & Video Render Outputs (Remotion)
+# ==========================================
+remotion-studio/out/
+*.mp4
+*.mov
+*.webm
+
+# ==========================================
+# Editor, OS & AI Tool Caches
+# ==========================================
+.DS_Store
+Thumbs.db
+.idea/
+.kombai/
+.qodo/
+.agents/
+.gemini/
+.antigravity/
+.vscode/*
+!.vscode/tasks.json
+!.vscode/settings.json
+!.vscode/extensions.json
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ==========================================
+# Temporary & Cache Files
+# ==========================================
+tmp/
+temp/
+*.tmp
+*.temp

@@ -1,0 +1,34 @@
+{
+  "visitors_estimate": 420,
+  "query_events": [
+    { "id": "qe-01", "session_hash": "s_91a8f2", "query_hash": "q_881a2c", "topic": "kabel berantakan & meja kerja sempit", "matched_count": 3, "created_at": "2026-11-03T09:12:00Z" },
+    { "id": "qe-02", "session_hash": "s_91a8f2", "query_hash": "q_219b04", "topic": "leher pegal menatap layar laptop", "matched_count": 3, "created_at": "2026-11-03T09:15:00Z" },
+    { "id": "qe-03", "session_hash": "s_33c0d1", "query_hash": "q_774e91", "topic": "kamar kos lembap & bau apek", "matched_count": 3, "created_at": "2026-11-03T11:20:00Z" },
+    { "id": "qe-04", "session_hash": "s_44b2e8", "query_hash": "q_881a2c", "topic": "kabel berantakan & meja kerja sempit", "matched_count": 3, "created_at": "2026-11-03T13:05:00Z" },
+    { "id": "qe-05", "session_hash": "s_72f9a0", "query_hash": "q_552c10", "topic": "colokan di meja kurang & adaptor besar", "matched_count": 3, "created_at": "2026-11-03T15:40:00Z" },
+    { "id": "qe-06", "session_hash": "s_88d1b3", "query_hash": "q_661d09", "topic": "kamar kos sempit & susah jemur baju", "matched_count": 3, "created_at": "2026-11-03T19:10:00Z" },
+    { "id": "qe-07", "session_hash": "s_10e4c7", "query_hash": "q_881a2c", "topic": "kabel berantakan & meja kerja sempit", "matched_count": 3, "created_at": "2026-11-04T07:25:00Z" },
+    { "id": "qe-08", "session_hash": "s_65a3f1", "query_hash": "q_990f12", "topic": "dapur sempit & kulkas berantakan", "matched_count": 2, "created_at": "2026-11-04T08:50:00Z" },
+    { "id": "qe-09", "session_hash": "s_12b9d4", "query_hash": "q_774e91", "topic": "kamar kos lembap & bau apek", "matched_count": 3, "created_at": "2026-11-04T10:15:00Z" },
+    { "id": "qe-10", "session_hash": "s_51c8e2", "query_hash": "q_004x99", "topic": "kursi kerja untuk ruang kos sangat sempit", "matched_count": 1, "created_at": "2026-11-04T11:30:00Z" }
+  ],
+  "click_events": [
+    { "id": "ce-01", "product_id": "prd-mk-001", "session_hash": "s_91a8f2", "referrer": "/chat", "created_at": "2026-11-03T09:13:10Z" },
+    { "id": "ce-02", "product_id": "prd-mk-004", "session_hash": "s_91a8f2", "referrer": "/chat", "created_at": "2026-11-03T09:16:05Z" },
+    { "id": "ce-03", "product_id": "prd-kk-001", "session_hash": "s_33c0d1", "referrer": "/chat", "created_at": "2026-11-03T11:22:00Z" },
+    { "id": "ce-04", "product_id": "prd-mk-001", "session_hash": "s_44b2e8", "referrer": "/chat", "created_at": "2026-11-03T13:06:12Z" },
+    { "id": "ce-05", "product_id": "prd-mk-002", "session_hash": "s_44b2e8", "referrer": "/chat", "created_at": "2026-11-03T13:07:00Z" },
+    { "id": "ce-06", "product_id": "prd-at-001", "session_hash": "s_72f9a0", "referrer": "/chat", "created_at": "2026-11-03T15:42:30Z" },
+    { "id": "ce-07", "product_id": "prd-kk-003", "session_hash": "s_88d1b3", "referrer": "/chat", "created_at": "2026-11-03T19:12:45Z" },
+    { "id": "ce-08", "product_id": "prd-mk-001", "session_hash": "s_10e4c7", "referrer": "/chat", "created_at": "2026-11-04T07:26:20Z" },
+    { "id": "ce-09", "product_id": "prd-rp-002", "session_hash": "s_65a3f1", "referrer": "/chat", "created_at": "2026-11-04T08:52:00Z" }
+  ],
+  "ai_usage": {
+    "total_requests": 10,
+    "cache_hits": 3,
+    "estimated_cost_idr": 450,
+    "daily_budget_idr": 15000,
+    "errors": 0
+  }
+}
+

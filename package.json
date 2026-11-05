@@ -1,0 +1,30 @@
+{
+  "name": "afiliatcorp-workspace",
+  "private": true,
+  "version": "1.0.0",
+  "description": "VS Code Control Center — AI Shopping Assistant Affiliate (Sesuai ars.md)",
+  "type": "module",
+  "scripts": {
+    "ops:collect": "node ops/collect/collect.mjs",
+    "ops:validate": "node ops/normalize/validate.mjs",
+    "ops:enrich": "node ops/enrich/enrich.mjs",
+    "ops:sync": "node ops/sync/sync-d1.mjs",
+    "ops:add-product": "node ops/collect/shopee_curator.mjs",
+    "ops:check-csv": "node ops/check_csv.mjs",
+    "ops:import-csv": "node ops/check_csv.mjs data/incoming/contoh_affiliate.csv --import",
+    "ops:report": "node ops/reports/report.mjs",
+    "ops:pipeline": "node ops/collect/collect.mjs && node ops/normalize/validate.mjs && node ops/enrich/enrich.mjs && node ops/sync/sync-d1.mjs && node ops/reports/report.mjs",
+    "marketing:plan": "node ops/marketing/content_manager.mjs generate",
+    "marketing:status": "node ops/marketing/content_manager.mjs status",
+    "remotion:studio": "npm --prefix remotion-studio run studio",
+    "remotion:render": "npm --prefix remotion-studio run render",
+    "remotion:render:all": "node ops/marketing/render_all.mjs",
+    "test": "node --test worker/test/salesEngine.test.mjs worker/test/curator.test.mjs worker/test/rateLimit.test.mjs",
+    "dev": "npm --prefix cloudflare-shopify-assistant run dev",
+    "build": "npm --prefix cloudflare-shopify-assistant run build",
+    "deploy:web": "npm run build && npx wrangler pages deploy cloudflare-shopify-assistant/dist --project-name afiliatcorp",
+    "deploy:worker": "cd worker && npx wrangler deploy",
+    "deploy:all": "npm run ops:pipeline && npm run deploy:web && npm run deploy:worker"
+  }
+}
+

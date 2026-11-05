@@ -1,0 +1,542 @@
+[
+  {
+    "campaignId": "vid-prd-mk-007",
+    "productId": "prd-mk-007",
+    "productName": "Stand Laptop Aluminium Lipat Ergonomis 7 Level + Pouch",
+    "category": "meja-kerja",
+    "platform": "TikTok Video",
+    "status": "script_ready",
+    "scheduledDate": "2026-11-06",
+    "landingPath": "/?p=prd-mk-007",
+    "affiliateUrl": "https://s.shopee.co.id/aff-mk-007-stand-laptop",
+    "script": {
+      "scene1_hook_0_3s": "Sering terganggu dengan masalah di meja-kerja? Ini solusinya!",
+      "scene2_showcase_3_7s": "Stand Laptop Aluminium Lipat Ergonomis 7 Level + Pouch — undefined",
+      "scene3_benefits_7_12s": [],
+      "scene4_cta_12_15s": "Promo undefined (undefined). Tanya asisten kami atau pesan lewat link di bio: /?p=prd-mk-007"
+    },
+    "caption": "Sering terganggu dengan masalah di meja-kerja? Ini solusinya!\n\nundefined\n• \n\nTanya ukuran & kecocokan atau pesan langsung di link bio (/?p=prd-mk-007)\n\n#setupmejakerja #anakkos #racunbelanja #perlengkapanrumah #mejakerja",
+    "remotionProps": {
+      "productId": "prd-mk-007",
+      "productName": "Stand Laptop Aluminium Lipat Ergonomis 7 Level + Pouch",
+      "category": "meja-kerja",
+      "hookText": "Sering terganggu dengan masalah di meja-kerja? Ini solusinya!",
+      "rating": 4.9,
+      "salesCount": 12400,
+      "imageUrl": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?auto=format&fit=crop&w=600&q=80",
+      "salesPoints": [],
+      "ctaUrlText": "Klik Link di Bio (/?p=prd-mk-007)"
+    },
+    "renderCommand": "npx --prefix remotion-studio remotion render src/index.ts ProductAdVideo out/prd-mk-007.mp4 --props=../data/marketing/props/prd-mk-007.json"
+  },
+  {
+    "campaignId": "vid-prd-kk-002",
+    "productId": "prd-kk-002",
+    "productName": "Paket Penyerap Lembap Gantung Silica/Calcium Chloride Lemari (Isi 10 Bag)",
+    "category": "kamar-kos",
+    "platform": "Instagram Reels",
+    "status": "script_ready",
+    "scheduledDate": "2026-11-07",
+    "landingPath": "/?p=prd-kk-002",
+    "affiliateUrl": "https://tokopedia.link/aff-kk-002-bag-lembap",
+    "script": {
+      "scene1_hook_0_3s": "Sering terganggu dengan masalah di kamar-kos? Ini solusinya!",
+      "scene2_showcase_3_7s": "Paket Penyerap Lembap Gantung Silica/Calcium Chloride Lemari (Isi 10 Bag) — undefined",
+      "scene3_benefits_7_12s": [],
+      "scene4_cta_12_15s": "Promo undefined (undefined). Tanya asisten kami atau pesan lewat link di bio: /?p=prd-kk-002"
+    },
+    "caption": "Sering terganggu dengan masalah di kamar-kos? Ini solusinya!\n\nundefined\n• \n\nTanya ukuran & kecocokan atau pesan langsung di link bio (/?p=prd-kk-002)\n\n#setupmejakerja #anakkos #racunbelanja #perlengkapanrumah #kamarkos",
+    "remotionProps": {
+      "productId": "prd-kk-002",
+      "productName": "Paket Penyerap Lembap Gantung Silica/Calcium Chloride Lemari (Isi 10 Bag)",
+      "category": "kamar-kos",
+      "hookText": "Sering terganggu dengan masalah di kamar-kos? Ini solusinya!",
+      "rating": 4.9,
+      "salesCount": 9800,
+      "imageUrl": "https://images.unsplash.com/photo-1558997519-83ea9252edf8?auto=format&fit=crop&w=600&q=80",
+      "salesPoints": [],
+      "ctaUrlText": "Klik Link di Bio (/?p=prd-kk-002)"
+    },
+    "renderCommand": "npx --prefix remotion-studio remotion render src/index.ts ProductAdVideo out/prd-kk-002.mp4 --props=../data/marketing/props/prd-kk-002.json"
+  },
+  {
+    "campaignId": "vid-prd-rp-002",
+    "productId": "prd-rp-002",
+    "productName": "Set Kontainer Food Preparation Kulkas Kedap Udara + Peniris (Isi 6 Box)",
+    "category": "rumah-praktis",
+    "platform": "YouTube Shorts",
+    "status": "script_ready",
+    "scheduledDate": "2026-11-08",
+    "landingPath": "/?p=prd-rp-002",
+    "affiliateUrl": "https://s.shopee.co.id/aff-rp-002-food-prep",
+    "script": {
+      "scene1_hook_0_3s": "Sering terganggu dengan masalah di rumah-praktis? Ini solusinya!",
+      "scene2_showcase_3_7s": "Set Kontainer Food Preparation Kulkas Kedap Udara + Peniris (Isi 6 Box) — undefined",
+      "scene3_benefits_7_12s": [],
+      "scene4_cta_12_15s": "Promo undefined (undefined). Tanya asisten kami atau pesan lewat link di bio: /?p=prd-rp-002"
+    },
+    "caption": "Sering terganggu dengan masalah di rumah-praktis? Ini solusinya!\n\nundefined\n• \n\nTanya ukuran & kecocokan atau pesan langsung di link bio (/?p=prd-rp-002)\n\n#setupmejakerja #anakkos #racunbelanja #perlengkapanrumah #rumahpraktis",
+    "remotionProps": {
+      "productId": "prd-rp-002",
+      "productName": "Set Kontainer Food Preparation Kulkas Kedap Udara + Peniris (Isi 6 Box)",
+      "category": "rumah-praktis",
+      "hookText": "Sering terganggu dengan masalah di rumah-praktis? Ini solusinya!",
+      "rating": 4.9,
+      "salesCount": 7800,
+      "imageUrl": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?auto=format&fit=crop&w=600&q=80",
+      "salesPoints": [],
+      "ctaUrlText": "Klik Link di Bio (/?p=prd-rp-002)"
+    },
+    "renderCommand": "npx --prefix remotion-studio remotion render src/index.ts ProductAdVideo out/prd-rp-002.mp4 --props=../data/marketing/props/prd-rp-002.json"
+  },
+  {
+    "campaignId": "vid-prd-mk-003",
+    "productId": "prd-mk-003",
+    "productName": "Paket Klip Kabel Magnetik + Velcro Strap Reusable (Isi 20 Roll)",
+    "category": "meja-kerja",
+    "platform": "TikTok Video",
+    "status": "script_ready",
+    "scheduledDate": "2026-11-09",
+    "landingPath": "/?p=prd-mk-003",
+    "affiliateUrl": "https://s.shopee.co.id/aff-mk-003-klip-velcro",
+    "script": {
+      "scene1_hook_0_3s": "Sering terganggu dengan masalah di meja-kerja? Ini solusinya!",
+      "scene2_showcase_3_7s": "Paket Klip Kabel Magnetik + Velcro Strap Reusable (Isi 20 Roll) — undefined",
+      "scene3_benefits_7_12s": [],
+      "scene4_cta_12_15s": "Promo undefined (undefined). Tanya asisten kami atau pesan lewat link di bio: /?p=prd-mk-003"
+    },
+    "caption": "Sering terganggu dengan masalah di meja-kerja? Ini solusinya!\n\nundefined\n• \n\nTanya ukuran & kecocokan atau pesan langsung di link bio (/?p=prd-mk-003)\n\n#setupmejakerja #anakkos #racunbelanja #perlengkapanrumah #mejakerja",
+    "remotionProps": {
+      "productId": "prd-mk-003",
+      "productName": "Paket Klip Kabel Magnetik + Velcro Strap Reusable (Isi 20 Roll)",
+      "category": "meja-kerja",
+      "hookText": "Sering terganggu dengan masalah di meja-kerja? Ini solusinya!",
+      "rating": 4.8,
+      "salesCount": 8900,
+      "imageUrl": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?auto=format&fit=crop&w=600&q=80",
+      "salesPoints": [],
+      "ctaUrlText": "Klik Link di Bio (/?p=prd-mk-003)"
+    },
+    "renderCommand": "npx --prefix remotion-studio remotion render src/index.ts ProductAdVideo out/prd-mk-003.mp4 --props=../data/marketing/props/prd-mk-003.json"
+  },
+  {
+    "campaignId": "vid-prd-at-001",
+    "productId": "prd-at-001",
+    "productName": "Charger GaN 65W 3-Port (2 USB-C + 1 USB-A) Ringkas Satu Kepala untuk Laptop & HP",
+    "category": "aksesori-tekno",
+    "platform": "Instagram Reels",
+    "status": "script_ready",
+    "scheduledDate": "2026-11-10",
+    "landingPath": "/?p=prd-at-001",
+    "affiliateUrl": "https://s.shopee.co.id/aff-at-001-gan-65w",
+    "script": {
+      "scene1_hook_0_3s": "Sering terganggu dengan masalah di aksesori-tekno? Ini solusinya!",
+      "scene2_showcase_3_7s": "Charger GaN 65W 3-Port (2 USB-C + 1 USB-A) Ringkas Satu Kepala untuk Laptop & HP — undefined",
+      "scene3_benefits_7_12s": [],
+      "scene4_cta_12_15s": "Promo undefined (undefined). Tanya asisten kami atau pesan lewat link di bio: /?p=prd-at-001"
+    },
+    "caption": "Sering terganggu dengan masalah di aksesori-tekno? Ini solusinya!\n\nundefined\n• \n\nTanya ukuran & kecocokan atau pesan langsung di link bio (/?p=prd-at-001)\n\n#setupmejakerja #anakkos #racunbelanja #perlengkapanrumah #aksesoritekno",
+    "remotionProps": {
+      "productId": "prd-at-001",
+      "productName": "Charger GaN 65W 3-Port (2 USB-C + 1 USB-A) Ringkas Satu Kepala untuk Laptop & HP",
+      "category": "aksesori-tekno",
+      "hookText": "Sering terganggu dengan masalah di aksesori-tekno? Ini solusinya!",
+      "rating": 4.9,
+      "salesCount": 5400,
+      "imageUrl": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?auto=format&fit=crop&w=600&q=80",
+      "salesPoints": [],
+      "ctaUrlText": "Klik Link di Bio (/?p=prd-at-001)"
+    },
+    "renderCommand": "npx --prefix remotion-studio remotion render src/index.ts ProductAdVideo out/prd-at-001.mp4 --props=../data/marketing/props/prd-at-001.json"
+  },
+  {
+    "campaignId": "vid-prd-kk-003",
+    "productId": "prd-kk-003",
+    "productName": "Rak Troli Susun 3 Tingkat Roda Slim (Lebar 22 cm) Celah Sempit",
+    "category": "kamar-kos",
+    "platform": "YouTube Shorts",
+    "status": "script_ready",
+    "scheduledDate": "2026-11-11",
+    "landingPath": "/?p=prd-kk-003",
+    "affiliateUrl": "https://s.shopee.co.id/aff-kk-003-troli-slim",
+    "script": {
+      "scene1_hook_0_3s": "Sering terganggu dengan masalah di kamar-kos? Ini solusinya!",
+      "scene2_showcase_3_7s": "Rak Troli Susun 3 Tingkat Roda Slim (Lebar 22 cm) Celah Sempit — undefined",
+      "scene3_benefits_7_12s": [],
+      "scene4_cta_12_15s": "Promo undefined (undefined). Tanya asisten kami atau pesan lewat link di bio: /?p=prd-kk-003"
+    },
+    "caption": "Sering terganggu dengan masalah di kamar-kos? Ini solusinya!\n\nundefined\n• \n\nTanya ukuran & kecocokan atau pesan langsung di link bio (/?p=prd-kk-003)\n\n#setupmejakerja #anakkos #racunbelanja #perlengkapanrumah #kamarkos",
+    "remotionProps": {
+      "productId": "prd-kk-003",
+      "productName": "Rak Troli Susun 3 Tingkat Roda Slim (Lebar 22 cm) Celah Sempit",
+      "category": "kamar-kos",
+      "hookText": "Sering terganggu dengan masalah di kamar-kos? Ini solusinya!",
+      "rating": 4.8,
+      "salesCount": 6400,
+      "imageUrl": "https://images.unsplash.com/photo-1595428774223-ef52624120d2?auto=format&fit=crop&w=600&q=80",
+      "salesPoints": [],
+      "ctaUrlText": "Klik Link di Bio (/?p=prd-kk-003)"
+    },
+    "renderCommand": "npx --prefix remotion-studio remotion render src/index.ts ProductAdVideo out/prd-kk-003.mp4 --props=../data/marketing/props/prd-kk-003.json"
+  },
+  {
+    "campaignId": "vid-prd-rp-003",
+    "productId": "prd-rp-003",
+    "productName": "Alat Pel Lantai Spray Mop Microfiber Praktis Tanpa Peras Tangan",
+    "category": "rumah-praktis",
+    "platform": "TikTok Video",
+    "status": "script_ready",
+    "scheduledDate": "2026-11-12",
+    "landingPath": "/?p=prd-rp-003",
+    "affiliateUrl": "https://tokopedia.link/aff-rp-003-spray-mop",
+    "script": {
+      "scene1_hook_0_3s": "Sering terganggu dengan masalah di rumah-praktis? Ini solusinya!",
+      "scene2_showcase_3_7s": "Alat Pel Lantai Spray Mop Microfiber Praktis Tanpa Peras Tangan — undefined",
+      "scene3_benefits_7_12s": [],
+      "scene4_cta_12_15s": "Promo undefined (undefined). Tanya asisten kami atau pesan lewat link di bio: /?p=prd-rp-003"
+    },
+    "caption": "Sering terganggu dengan masalah di rumah-praktis? Ini solusinya!\n\nundefined\n• \n\nTanya ukuran & kecocokan atau pesan langsung di link bio (/?p=prd-rp-003)\n\n#setupmejakerja #anakkos #racunbelanja #perlengkapanrumah #rumahpraktis",
+    "remotionProps": {
+      "productId": "prd-rp-003",
+      "productName": "Alat Pel Lantai Spray Mop Microfiber Praktis Tanpa Peras Tangan",
+      "category": "rumah-praktis",
+      "hookText": "Sering terganggu dengan masalah di rumah-praktis? Ini solusinya!",
+      "rating": 4.8,
+      "salesCount": 6200,
+      "imageUrl": "https://images.unsplash.com/photo-1563453392212-326f5e854473?auto=format&fit=crop&w=600&q=80",
+      "salesPoints": [],
+      "ctaUrlText": "Klik Link di Bio (/?p=prd-rp-003)"
+    },
+    "renderCommand": "npx --prefix remotion-studio remotion render src/index.ts ProductAdVideo out/prd-rp-003.mp4 --props=../data/marketing/props/prd-rp-003.json"
+  },
+  {
+    "campaignId": "vid-prd-at-003",
+    "productId": "prd-at-003",
+    "productName": "USB-C Hub 6-in-1 (HDMI 4K, 3x USB 3.0, SD/TF Card, PD 100W) Aluminium",
+    "category": "aksesori-tekno",
+    "platform": "Instagram Reels",
+    "status": "script_ready",
+    "scheduledDate": "2026-11-13",
+    "landingPath": "/?p=prd-at-003",
+    "affiliateUrl": "https://s.shopee.co.id/aff-at-003-usbc-hub",
+    "script": {
+      "scene1_hook_0_3s": "Sering terganggu dengan masalah di aksesori-tekno? Ini solusinya!",
+      "scene2_showcase_3_7s": "USB-C Hub 6-in-1 (HDMI 4K, 3x USB 3.0, SD/TF Card, PD 100W) Aluminium — undefined",
+      "scene3_benefits_7_12s": [],
+      "scene4_cta_12_15s": "Promo undefined (undefined). Tanya asisten kami atau pesan lewat link di bio: /?p=prd-at-003"
+    },
+    "caption": "Sering terganggu dengan masalah di aksesori-tekno? Ini solusinya!\n\nundefined\n• \n\nTanya ukuran & kecocokan atau pesan langsung di link bio (/?p=prd-at-003)\n\n#setupmejakerja #anakkos #racunbelanja #perlengkapanrumah #aksesoritekno",
+    "remotionProps": {
+      "productId": "prd-at-003",
+      "productName": "USB-C Hub 6-in-1 (HDMI 4K, 3x USB 3.0, SD/TF Card, PD 100W) Aluminium",
+      "category": "aksesori-tekno",
+      "hookText": "Sering terganggu dengan masalah di aksesori-tekno? Ini solusinya!",
+      "rating": 4.9,
+      "salesCount": 4700,
+      "imageUrl": "https://images.unsplash.com/photo-1625842268584-8f3296236761?auto=format&fit=crop&w=600&q=80",
+      "salesPoints": [],
+      "ctaUrlText": "Klik Link di Bio (/?p=prd-at-003)"
+    },
+    "renderCommand": "npx --prefix remotion-studio remotion render src/index.ts ProductAdVideo out/prd-at-003.mp4 --props=../data/marketing/props/prd-at-003.json"
+  },
+  {
+    "campaignId": "vid-prd-mk-004",
+    "productId": "prd-mk-004",
+    "productName": "Bracket Lengan Monitor Tunggal Gas Spring Ergonomis (17-32 Inci)",
+    "category": "meja-kerja",
+    "platform": "YouTube Shorts",
+    "status": "script_ready",
+    "scheduledDate": "2026-11-14",
+    "landingPath": "/?p=prd-mk-004",
+    "affiliateUrl": "https://s.shopee.co.id/aff-mk-004-monitor-arm",
+    "script": {
+      "scene1_hook_0_3s": "Sering terganggu dengan masalah di meja-kerja? Ini solusinya!",
+      "scene2_showcase_3_7s": "Bracket Lengan Monitor Tunggal Gas Spring Ergonomis (17-32 Inci) — undefined",
+      "scene3_benefits_7_12s": [],
+      "scene4_cta_12_15s": "Promo undefined (undefined). Tanya asisten kami atau pesan lewat link di bio: /?p=prd-mk-004"
+    },
+    "caption": "Sering terganggu dengan masalah di meja-kerja? Ini solusinya!\n\nundefined\n• \n\nTanya ukuran & kecocokan atau pesan langsung di link bio (/?p=prd-mk-004)\n\n#setupmejakerja #anakkos #racunbelanja #perlengkapanrumah #mejakerja",
+    "remotionProps": {
+      "productId": "prd-mk-004",
+      "productName": "Bracket Lengan Monitor Tunggal Gas Spring Ergonomis (17-32 Inci)",
+      "category": "meja-kerja",
+      "hookText": "Sering terganggu dengan masalah di meja-kerja? Ini solusinya!",
+      "rating": 4.9,
+      "salesCount": 4150,
+      "imageUrl": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=600&q=80",
+      "salesPoints": [],
+      "ctaUrlText": "Klik Link di Bio (/?p=prd-mk-004)"
+    },
+    "renderCommand": "npx --prefix remotion-studio remotion render src/index.ts ProductAdVideo out/prd-mk-004.mp4 --props=../data/marketing/props/prd-mk-004.json"
+  },
+  {
+    "campaignId": "vid-prd-kk-005",
+    "productId": "prd-kk-005",
+    "productName": "Over-The-Door Organizer Gantungan Belakang Pintu 24 Kantong Transparan",
+    "category": "kamar-kos",
+    "platform": "TikTok Video",
+    "status": "script_ready",
+    "scheduledDate": "2026-11-15",
+    "landingPath": "/?p=prd-kk-005",
+    "affiliateUrl": "https://tokopedia.link/aff-kk-005-door-organizer",
+    "script": {
+      "scene1_hook_0_3s": "Sering terganggu dengan masalah di kamar-kos? Ini solusinya!",
+      "scene2_showcase_3_7s": "Over-The-Door Organizer Gantungan Belakang Pintu 24 Kantong Transparan — undefined",
+      "scene3_benefits_7_12s": [],
+      "scene4_cta_12_15s": "Promo undefined (undefined). Tanya asisten kami atau pesan lewat link di bio: /?p=prd-kk-005"
+    },
+    "caption": "Sering terganggu dengan masalah di kamar-kos? Ini solusinya!\n\nundefined\n• \n\nTanya ukuran & kecocokan atau pesan langsung di link bio (/?p=prd-kk-005)\n\n#setupmejakerja #anakkos #racunbelanja #perlengkapanrumah #kamarkos",
+    "remotionProps": {
+      "productId": "prd-kk-005",
+      "productName": "Over-The-Door Organizer Gantungan Belakang Pintu 24 Kantong Transparan",
+      "category": "kamar-kos",
+      "hookText": "Sering terganggu dengan masalah di kamar-kos? Ini solusinya!",
+      "rating": 4.8,
+      "salesCount": 5600,
+      "imageUrl": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=600&q=80",
+      "salesPoints": [],
+      "ctaUrlText": "Klik Link di Bio (/?p=prd-kk-005)"
+    },
+    "renderCommand": "npx --prefix remotion-studio remotion render src/index.ts ProductAdVideo out/prd-kk-005.mp4 --props=../data/marketing/props/prd-kk-005.json"
+  },
+  {
+    "campaignId": "vid-prd-mk-002",
+    "productId": "prd-mk-002",
+    "productName": "Box Organizer Kabel & Stop Kontak Kayu Minimalis Anti Debu",
+    "category": "meja-kerja",
+    "platform": "Instagram Reels",
+    "status": "script_ready",
+    "scheduledDate": "2026-11-16",
+    "landingPath": "/?p=prd-mk-002",
+    "affiliateUrl": "https://tokopedia.link/aff-mk-002-box-kabel",
+    "script": {
+      "scene1_hook_0_3s": "Sering terganggu dengan masalah di meja-kerja? Ini solusinya!",
+      "scene2_showcase_3_7s": "Box Organizer Kabel & Stop Kontak Kayu Minimalis Anti Debu — undefined",
+      "scene3_benefits_7_12s": [],
+      "scene4_cta_12_15s": "Promo undefined (undefined). Tanya asisten kami atau pesan lewat link di bio: /?p=prd-mk-002"
+    },
+    "caption": "Sering terganggu dengan masalah di meja-kerja? Ini solusinya!\n\nundefined\n• \n\nTanya ukuran & kecocokan atau pesan langsung di link bio (/?p=prd-mk-002)\n\n#setupmejakerja #anakkos #racunbelanja #perlengkapanrumah #mejakerja",
+    "remotionProps": {
+      "productId": "prd-mk-002",
+      "productName": "Box Organizer Kabel & Stop Kontak Kayu Minimalis Anti Debu",
+      "category": "meja-kerja",
+      "hookText": "Sering terganggu dengan masalah di meja-kerja? Ini solusinya!",
+      "rating": 4.8,
+      "salesCount": 5120,
+      "imageUrl": "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?auto=format&fit=crop&w=600&q=80",
+      "salesPoints": [],
+      "ctaUrlText": "Klik Link di Bio (/?p=prd-mk-002)"
+    },
+    "renderCommand": "npx --prefix remotion-studio remotion render src/index.ts ProductAdVideo out/prd-mk-002.mp4 --props=../data/marketing/props/prd-mk-002.json"
+  },
+  {
+    "campaignId": "vid-prd-mk-006",
+    "productId": "prd-mk-006",
+    "productName": "Lampu Gantung Monitor (Screen Bar) Anti-Glare Asimetris USB-C",
+    "category": "meja-kerja",
+    "platform": "YouTube Shorts",
+    "status": "script_ready",
+    "scheduledDate": "2026-11-17",
+    "landingPath": "/?p=prd-mk-006",
+    "affiliateUrl": "https://s.shopee.co.id/aff-mk-006-screenbar",
+    "script": {
+      "scene1_hook_0_3s": "Sering terganggu dengan masalah di meja-kerja? Ini solusinya!",
+      "scene2_showcase_3_7s": "Lampu Gantung Monitor (Screen Bar) Anti-Glare Asimetris USB-C — undefined",
+      "scene3_benefits_7_12s": [],
+      "scene4_cta_12_15s": "Promo undefined (undefined). Tanya asisten kami atau pesan lewat link di bio: /?p=prd-mk-006"
+    },
+    "caption": "Sering terganggu dengan masalah di meja-kerja? Ini solusinya!\n\nundefined\n• \n\nTanya ukuran & kecocokan atau pesan langsung di link bio (/?p=prd-mk-006)\n\n#setupmejakerja #anakkos #racunbelanja #perlengkapanrumah #mejakerja",
+    "remotionProps": {
+      "productId": "prd-mk-006",
+      "productName": "Lampu Gantung Monitor (Screen Bar) Anti-Glare Asimetris USB-C",
+      "category": "meja-kerja",
+      "hookText": "Sering terganggu dengan masalah di meja-kerja? Ini solusinya!",
+      "rating": 4.9,
+      "salesCount": 3890,
+      "imageUrl": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=600&q=80",
+      "salesPoints": [],
+      "ctaUrlText": "Klik Link di Bio (/?p=prd-mk-006)"
+    },
+    "renderCommand": "npx --prefix remotion-studio remotion render src/index.ts ProductAdVideo out/prd-mk-006.mp4 --props=../data/marketing/props/prd-mk-006.json"
+  },
+  {
+    "campaignId": "vid-prd-mk-001",
+    "productId": "prd-mk-001",
+    "productName": "Under-Desk Cable Management Tray Besi Kokoh Tanpa Bor (Clamp Jepit)",
+    "category": "meja-kerja",
+    "platform": "TikTok Video",
+    "status": "script_ready",
+    "scheduledDate": "2026-11-18",
+    "landingPath": "/?p=prd-mk-001",
+    "affiliateUrl": "https://s.shopee.co.id/aff-mk-001-tray-kabel",
+    "script": {
+      "scene1_hook_0_3s": "Sering terganggu dengan masalah di meja-kerja? Ini solusinya!",
+      "scene2_showcase_3_7s": "Under-Desk Cable Management Tray Besi Kokoh Tanpa Bor (Clamp Jepit) — undefined",
+      "scene3_benefits_7_12s": [],
+      "scene4_cta_12_15s": "Promo undefined (undefined). Tanya asisten kami atau pesan lewat link di bio: /?p=prd-mk-001"
+    },
+    "caption": "Sering terganggu dengan masalah di meja-kerja? Ini solusinya!\n\nundefined\n• \n\nTanya ukuran & kecocokan atau pesan langsung di link bio (/?p=prd-mk-001)\n\n#setupmejakerja #anakkos #racunbelanja #perlengkapanrumah #mejakerja",
+    "remotionProps": {
+      "productId": "prd-mk-001",
+      "productName": "Under-Desk Cable Management Tray Besi Kokoh Tanpa Bor (Clamp Jepit)",
+      "category": "meja-kerja",
+      "hookText": "Sering terganggu dengan masalah di meja-kerja? Ini solusinya!",
+      "rating": 4.9,
+      "salesCount": 3420,
+      "imageUrl": "https://images.unsplash.com/photo-1593640408182-31c70c8268f5?auto=format&fit=crop&w=600&q=80",
+      "salesPoints": [],
+      "ctaUrlText": "Klik Link di Bio (/?p=prd-mk-001)"
+    },
+    "renderCommand": "npx --prefix remotion-studio remotion render src/index.ts ProductAdVideo out/prd-mk-001.mp4 --props=../data/marketing/props/prd-mk-001.json"
+  },
+  {
+    "campaignId": "vid-prd-at-002",
+    "productId": "prd-at-002",
+    "productName": "Stop Kontak Tower / Kubus 4 Lubang AC + 3 Port USB Saklar Tunggal SNI",
+    "category": "aksesori-tekno",
+    "platform": "Instagram Reels",
+    "status": "script_ready",
+    "scheduledDate": "2026-11-19",
+    "landingPath": "/?p=prd-at-002",
+    "affiliateUrl": "https://tokopedia.link/aff-at-002-power-cube",
+    "script": {
+      "scene1_hook_0_3s": "Sering terganggu dengan masalah di aksesori-tekno? Ini solusinya!",
+      "scene2_showcase_3_7s": "Stop Kontak Tower / Kubus 4 Lubang AC + 3 Port USB Saklar Tunggal SNI — undefined",
+      "scene3_benefits_7_12s": [],
+      "scene4_cta_12_15s": "Promo undefined (undefined). Tanya asisten kami atau pesan lewat link di bio: /?p=prd-at-002"
+    },
+    "caption": "Sering terganggu dengan masalah di aksesori-tekno? Ini solusinya!\n\nundefined\n• \n\nTanya ukuran & kecocokan atau pesan langsung di link bio (/?p=prd-at-002)\n\n#setupmejakerja #anakkos #racunbelanja #perlengkapanrumah #aksesoritekno",
+    "remotionProps": {
+      "productId": "prd-at-002",
+      "productName": "Stop Kontak Tower / Kubus 4 Lubang AC + 3 Port USB Saklar Tunggal SNI",
+      "category": "aksesori-tekno",
+      "hookText": "Sering terganggu dengan masalah di aksesori-tekno? Ini solusinya!",
+      "rating": 4.8,
+      "salesCount": 3290,
+      "imageUrl": "https://images.unsplash.com/photo-1544724569-5f546fd6f2b5?auto=format&fit=crop&w=600&q=80",
+      "salesPoints": [],
+      "ctaUrlText": "Klik Link di Bio (/?p=prd-at-002)"
+    },
+    "renderCommand": "npx --prefix remotion-studio remotion render src/index.ts ProductAdVideo out/prd-at-002.mp4 --props=../data/marketing/props/prd-at-002.json"
+  },
+  {
+    "campaignId": "vid-prd-kk-004",
+    "productId": "prd-kk-004",
+    "productName": "Jemuran Baju Lipat Dinding / Balkon Portable Stainless Hemat Ruang",
+    "category": "kamar-kos",
+    "platform": "YouTube Shorts",
+    "status": "script_ready",
+    "scheduledDate": "2026-11-20",
+    "landingPath": "/?p=prd-kk-004",
+    "affiliateUrl": "https://s.shopee.co.id/aff-kk-004-jemuran-lipat",
+    "script": {
+      "scene1_hook_0_3s": "Sering terganggu dengan masalah di kamar-kos? Ini solusinya!",
+      "scene2_showcase_3_7s": "Jemuran Baju Lipat Dinding / Balkon Portable Stainless Hemat Ruang — undefined",
+      "scene3_benefits_7_12s": [],
+      "scene4_cta_12_15s": "Promo undefined (undefined). Tanya asisten kami atau pesan lewat link di bio: /?p=prd-kk-004"
+    },
+    "caption": "Sering terganggu dengan masalah di kamar-kos? Ini solusinya!\n\nundefined\n• \n\nTanya ukuran & kecocokan atau pesan langsung di link bio (/?p=prd-kk-004)\n\n#setupmejakerja #anakkos #racunbelanja #perlengkapanrumah #kamarkos",
+    "remotionProps": {
+      "productId": "prd-kk-004",
+      "productName": "Jemuran Baju Lipat Dinding / Balkon Portable Stainless Hemat Ruang",
+      "category": "kamar-kos",
+      "hookText": "Sering terganggu dengan masalah di kamar-kos? Ini solusinya!",
+      "rating": 4.7,
+      "salesCount": 4300,
+      "imageUrl": "https://images.unsplash.com/photo-1582735689369-4fe89db7114c?auto=format&fit=crop&w=600&q=80",
+      "salesPoints": [],
+      "ctaUrlText": "Klik Link di Bio (/?p=prd-kk-004)"
+    },
+    "renderCommand": "npx --prefix remotion-studio remotion render src/index.ts ProductAdVideo out/prd-kk-004.mp4 --props=../data/marketing/props/prd-kk-004.json"
+  },
+  {
+    "campaignId": "vid-prd-rp-001",
+    "productId": "prd-rp-001",
+    "productName": "Rak Kolong Wastafel / Bawah Dapur Geser 2 Tingkat Anti Karat",
+    "category": "rumah-praktis",
+    "platform": "TikTok Video",
+    "status": "script_ready",
+    "scheduledDate": "2026-11-21",
+    "landingPath": "/?p=prd-rp-001",
+    "affiliateUrl": "https://s.shopee.co.id/aff-rp-001-rak-wastafel",
+    "script": {
+      "scene1_hook_0_3s": "Sering terganggu dengan masalah di rumah-praktis? Ini solusinya!",
+      "scene2_showcase_3_7s": "Rak Kolong Wastafel / Bawah Dapur Geser 2 Tingkat Anti Karat — undefined",
+      "scene3_benefits_7_12s": [],
+      "scene4_cta_12_15s": "Promo undefined (undefined). Tanya asisten kami atau pesan lewat link di bio: /?p=prd-rp-001"
+    },
+    "caption": "Sering terganggu dengan masalah di rumah-praktis? Ini solusinya!\n\nundefined\n• \n\nTanya ukuran & kecocokan atau pesan langsung di link bio (/?p=prd-rp-001)\n\n#setupmejakerja #anakkos #racunbelanja #perlengkapanrumah #rumahpraktis",
+    "remotionProps": {
+      "productId": "prd-rp-001",
+      "productName": "Rak Kolong Wastafel / Bawah Dapur Geser 2 Tingkat Anti Karat",
+      "category": "rumah-praktis",
+      "hookText": "Sering terganggu dengan masalah di rumah-praktis? Ini solusinya!",
+      "rating": 4.8,
+      "salesCount": 3100,
+      "imageUrl": "https://images.unsplash.com/photo-1556911220-bff31c812dba?auto=format&fit=crop&w=600&q=80",
+      "salesPoints": [],
+      "ctaUrlText": "Klik Link di Bio (/?p=prd-rp-001)"
+    },
+    "renderCommand": "npx --prefix remotion-studio remotion render src/index.ts ProductAdVideo out/prd-rp-001.mp4 --props=../data/marketing/props/prd-rp-001.json"
+  },
+  {
+    "campaignId": "vid-prd-mk-005",
+    "productId": "prd-mk-005",
+    "productName": "Desk Shelf Riser Monitor Kayu Solid + Slot Penyimpanan Keyboard",
+    "category": "meja-kerja",
+    "platform": "Instagram Reels",
+    "status": "script_ready",
+    "scheduledDate": "2026-11-22",
+    "landingPath": "/?p=prd-mk-005",
+    "affiliateUrl": "https://tokopedia.link/aff-mk-005-desk-shelf",
+    "script": {
+      "scene1_hook_0_3s": "Sering terganggu dengan masalah di meja-kerja? Ini solusinya!",
+      "scene2_showcase_3_7s": "Desk Shelf Riser Monitor Kayu Solid + Slot Penyimpanan Keyboard — undefined",
+      "scene3_benefits_7_12s": [],
+      "scene4_cta_12_15s": "Promo undefined (undefined). Tanya asisten kami atau pesan lewat link di bio: /?p=prd-mk-005"
+    },
+    "caption": "Sering terganggu dengan masalah di meja-kerja? Ini solusinya!\n\nundefined\n• \n\nTanya ukuran & kecocokan atau pesan langsung di link bio (/?p=prd-mk-005)\n\n#setupmejakerja #anakkos #racunbelanja #perlengkapanrumah #mejakerja",
+    "remotionProps": {
+      "productId": "prd-mk-005",
+      "productName": "Desk Shelf Riser Monitor Kayu Solid + Slot Penyimpanan Keyboard",
+      "category": "meja-kerja",
+      "hookText": "Sering terganggu dengan masalah di meja-kerja? Ini solusinya!",
+      "rating": 4.8,
+      "salesCount": 2780,
+      "imageUrl": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?auto=format&fit=crop&w=600&q=80",
+      "salesPoints": [],
+      "ctaUrlText": "Klik Link di Bio (/?p=prd-mk-005)"
+    },
+    "renderCommand": "npx --prefix remotion-studio remotion render src/index.ts ProductAdVideo out/prd-mk-005.mp4 --props=../data/marketing/props/prd-mk-005.json"
+  },
+  {
+    "campaignId": "vid-prd-kk-001",
+    "productId": "prd-kk-001",
+    "productName": "Dehumidifier Mini Elektrik 800ml Auto-Off untuk Kamar Kos Lembap",
+    "category": "kamar-kos",
+    "platform": "YouTube Shorts",
+    "status": "script_ready",
+    "scheduledDate": "2026-11-23",
+    "landingPath": "/?p=prd-kk-001",
+    "affiliateUrl": "https://s.shopee.co.id/aff-kk-001-dehumidifier",
+    "script": {
+      "scene1_hook_0_3s": "Sering terganggu dengan masalah di kamar-kos? Ini solusinya!",
+      "scene2_showcase_3_7s": "Dehumidifier Mini Elektrik 800ml Auto-Off untuk Kamar Kos Lembap — undefined",
+      "scene3_benefits_7_12s": [],
+      "scene4_cta_12_15s": "Promo undefined (undefined). Tanya asisten kami atau pesan lewat link di bio: /?p=prd-kk-001"
+    },
+    "caption": "Sering terganggu dengan masalah di kamar-kos? Ini solusinya!\n\nundefined\n• \n\nTanya ukuran & kecocokan atau pesan langsung di link bio (/?p=prd-kk-001)\n\n#setupmejakerja #anakkos #racunbelanja #perlengkapanrumah #kamarkos",
+    "remotionProps": {
+      "productId": "prd-kk-001",
+      "productName": "Dehumidifier Mini Elektrik 800ml Auto-Off untuk Kamar Kos Lembap",
+      "category": "kamar-kos",
+      "hookText": "Sering terganggu dengan masalah di kamar-kos? Ini solusinya!",
+      "rating": 4.8,
+      "salesCount": 2150,
+      "imageUrl": "https://images.unsplash.com/photo-1585771724684-38269d6639fd?auto=format&fit=crop&w=600&q=80",
+      "salesPoints": [],
+      "ctaUrlText": "Klik Link di Bio (/?p=prd-kk-001)"
+    },
+    "renderCommand": "npx --prefix remotion-studio remotion render src/index.ts ProductAdVideo out/prd-kk-001.mp4 --props=../data/marketing/props/prd-kk-001.json"
+  }
+]

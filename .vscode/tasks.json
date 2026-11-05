@@ -1,0 +1,114 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "ops:collect (Cek Sumber Feed)",
+      "type": "shell",
+      "command": "node ops/collect/collect.mjs",
+      "problemMatcher": []
+    },
+    {
+      "label": "ops:validate (Normalisasi & Guardrail Katalog)",
+      "type": "shell",
+      "command": "node ops/normalize/validate.mjs",
+      "problemMatcher": []
+    },
+    {
+      "label": "ops:enrich (Perkaya Sinonim Masalah)",
+      "type": "shell",
+      "command": "node ops/enrich/enrich.mjs",
+      "problemMatcher": []
+    },
+    {
+      "label": "ops:sync (Sinkronkan D1 SQL & Web Catalog)",
+      "type": "shell",
+      "command": "node ops/sync/sync-d1.mjs",
+      "problemMatcher": []
+    },
+    {
+      "label": "ops:add-product (Kurasi & Impor Produk Shopee Affiliate)",
+      "type": "shell",
+      "command": "node ops/collect/shopee_curator.mjs",
+      "problemMatcher": []
+    },
+    {
+      "label": "ops:check-csv (Bandingkan & Cek Link Affiliate dari CSV)",
+      "type": "shell",
+      "command": "node ops/check_csv.mjs",
+      "problemMatcher": []
+    },
+    {
+      "label": "ops:report (Hasilkan Laporan KPI & Unit Economics)",
+      "type": "shell",
+      "command": "node ops/reports/report.mjs",
+      "problemMatcher": []
+    },
+    {
+      "label": "marketing:plan (Generate Kalender & Skrip Video Remotion)",
+      "type": "shell",
+      "command": "node ops/marketing/content_manager.mjs generate",
+      "problemMatcher": []
+    },
+    {
+      "label": "marketing:status (Cek Status Kampanye Video Kreator)",
+      "type": "shell",
+      "command": "node ops/marketing/content_manager.mjs status",
+      "problemMatcher": []
+    },
+    {
+      "label": "remotion:studio (Buka Remotion Studio di Browser)",
+      "type": "shell",
+      "command": "npm --prefix remotion-studio run studio",
+      "problemMatcher": []
+    },
+    {
+      "label": "remotion:render (Render Video Remotion ke MP4)",
+      "type": "shell",
+      "command": "npm --prefix remotion-studio run render",
+      "problemMatcher": []
+    },
+    {
+      "label": "remotion:render:all (Batch Render Semua Video Katalog)",
+      "type": "shell",
+      "command": "node ops/marketing/render_all.mjs",
+      "problemMatcher": []
+    },
+    {
+      "label": "test (Unit Test AI Sales Engine & Security)",
+      "type": "shell",
+      "command": "node --test worker/test/salesEngine.test.mjs worker/test/curator.test.mjs worker/test/rateLimit.test.mjs",
+      "problemMatcher": []
+    },
+    {
+      "label": "web:dev (Jalankan Frontend React + Vite)",
+      "type": "shell",
+      "command": "npm --prefix cloudflare-shopify-assistant run dev",
+      "problemMatcher": []
+    },
+    {
+      "label": "web:build (Build Produksi Frontend)",
+      "type": "shell",
+      "command": "npm --prefix cloudflare-shopify-assistant run build",
+      "problemMatcher": []
+    },
+    {
+      "label": "deploy:web (Deploy Frontend Web ke Cloudflare Pages)",
+      "type": "shell",
+      "command": "npm run deploy:web",
+      "problemMatcher": []
+    },
+    {
+      "label": "deploy:worker (Deploy Backend AI & Rate Limiter ke Cloudflare Workers)",
+      "type": "shell",
+      "command": "npm run deploy:worker",
+      "problemMatcher": []
+    },
+    {
+      "label": "deploy:all (Sync Pipeline + Deploy Web & Worker Sekaligus)",
+      "type": "shell",
+      "command": "npm run deploy:all",
+      "problemMatcher": []
+    }
+  ]
+}
+
